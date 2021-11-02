@@ -1,0 +1,55 @@
+.or-bg{
+    background-color: #feeae9;
+}
+.carousel-item{
+    padding: 30px 60px;
+}
+.price{
+    color: #FF136F;
+}
+.bb{
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 9px 25px;
+    border-radius: 8px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.container{
+    margin-bottom: 100px;
+}
+.cat1{
+background-image: linear-gradient(to left, rgb(221, 104, 104) 0%, crimson 100%);
+padding: 20px 30px;
+border-radius: 10px;
+}
+.cat2{
+background-image: linear-gradient(to left, rgb(104, 174, 221) 0%, rgb(20, 140, 220) 100%);
+padding: 20px 30px;
+border-radius: 10px;
+}
+.cat3{
+background-image: linear-gradient(to left, rgb(104, 221, 182) 0%, rgb(20, 207, 220) 100%);
+padding: 20px 30px;
+border-radius: 10px;
+}
+.cg h1{
+    color: white;
+}
+.cg img{
+    width: 70px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#about{
+    height: 300px;
+}
+h6{
+    color: gray;
+}
+span{
+    font-size: 3rem;
+    color: red;
+}
